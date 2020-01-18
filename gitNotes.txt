@@ -1,0 +1,18 @@
+creating a new repo you only do this stuff once
+
+-cd into where your local repo is/ where the file is
+-git init
+-git remote add origin <repo link given by github>
+-git status
+	-if you want to check
+-git add .
+-git commit -m"message"
+-git push origin master
+
+
+pushing new code to an existing repo
+
+-git status
+-git add .
+-git commit -m"message"
+-git push origin master
